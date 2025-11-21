@@ -27,6 +27,9 @@ nav a {
     transition: background 0.2s, color 0.2s;
 }
 
+a {
+    color: #ff00f7;
+}
 nav a:hover,
 nav a:focus {
     background: #fff;
