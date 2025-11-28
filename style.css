@@ -31,6 +31,10 @@ a {
     color: #2e8b57;
 }
 
+.fuente{
+    color: blue;
+}
+
 nav a:hover,
 nav a:focus {
     background: #fff;
